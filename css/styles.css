@@ -1,0 +1,24 @@
+/* img {
+  border: 4 px solid black;
+  object-fit: cover;
+}*/
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block; /* remove extra space below image */
+}
+
+
+.panda-showing {
+  display: none
+}
+.orca-showing {
+  display: none
+}
+.penguin-showing {
+  display: none
+}
+/* * {
+  border: 1px solid red;
+} */
